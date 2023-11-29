@@ -1,0 +1,7 @@
+plank_HighHead
+plank_HighHip
+plank_standard
+squat_forerake
+squat_shallow
+squat_standard
+stand
